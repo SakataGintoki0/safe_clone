@@ -39,7 +39,7 @@ function Contacts() {
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14392.581392472219!2d85.154068!3d25.600086!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed59162692b0a7%3A0x295a4464bc852df6!2sAgarwal%20Agencies!5e0!3m2!1sen!2sin!4v1716286812631!5m2!1sen!2sin"
           allowfullscreen=""
-          className="w-screen h-screen"
+          className="w-full h-screen"
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
         ></iframe>

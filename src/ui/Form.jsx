@@ -68,9 +68,9 @@ function Form({ type }) {
             Looking For
           </label>
           <select name="Looking" id="Looking" className={inputStyle}>
-            <option value="select" disabled selected>
+            {/* <option value="select" disabled selected>
               Please Select
-            </option>
+            </option> */}
             <option value="Products">Products</option>
             <option value="Services">Services</option>
           </select>
