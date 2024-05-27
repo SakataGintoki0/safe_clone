@@ -6,7 +6,7 @@ function Model() {
     <div className="text-black bg-white">
       <div className="flex">
         <div>
-          <div className="font-3xl">SteelCage</div>
+          <div className="font-3xl">Steel </div>
           <div>Certified Cages</div>
           <div>Fire Cabinate</div>
           <div>Vault Doors</div>

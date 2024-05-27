@@ -1,6 +1,5 @@
 import Safe from "@/ui/Safe";
-import magma from "../../public/images/products/magma.png";
-import Image from "next/image";
+
 function Products() {
   return (
     <div>
